@@ -9,7 +9,6 @@ In the project directory, you can run:
 ### `npm run server`
 
 Runs the json-server on 3001 port.
-Open http://localhost:3001 to view it in the browser.
 
 ### `npm start`
 
